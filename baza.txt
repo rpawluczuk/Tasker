@@ -1,0 +1,28 @@
+Task
+Name of task: 5 pól
+Task creation date: 2018-12-01
+Expected end date of the task: 2018-11-26
+Status: Done
+Comment: Utworzyć 5 pól i przypisać im odpowiednie typy
+----------------------
+Task
+Name of task: Utworzenie bazy
+Task creation date: 2018-12-01
+Expected end date of the task: 2018-11-27
+Status: Done
+Comment: Zapisywanie tasków do pliku baza.txt
+----------------------
+Task
+Name of task: Odczyt danych z bazy
+Task creation date: 2018-12-01
+Expected end date of the task: 2018-11-28
+Status: In progress
+Comment: Sczytywanie tasków z pliku bazy danych
+----------------------
+Task
+Name of task: Edycja tasków
+Task creation date: 2018-12-02
+Expected end date of the task: 2018-12-08
+Status: In progress
+Comment: Dodać możliwość edycji tasków
+----------------------
